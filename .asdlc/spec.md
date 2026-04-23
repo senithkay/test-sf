@@ -39,14 +39,14 @@ The system centers on a straightforward CRUD model for tasks, enriched with cate
 - Users can assign a task to exactly one category or leave it uncategorized.
 - Users can filter their task list to show only tasks belonging to a selected category.
 
-## Due Dates & Scheduling
+## Due Dates &amp; Scheduling
 
 - Users can set a due date (and optionally a due time) on any task.
 - The task list visually distinguishes tasks that are overdue (past due date and incomplete).
 - Users can filter tasks by due date range (e.g., due today, due this week, overdue).
 - Tasks without a due date are displayed separately or clearly indicated as undated.
 
-## Task Organization & Filtering
+## Task Organization &amp; Filtering
 
 - Users can sort their task list by due date, creation date, priority, or title (ascending/descending).
 - Users can filter tasks by completion status (all, active, completed).
@@ -75,3 +75,4 @@ The system centers on a straightforward CRUD model for tasks, enriched with cate
 - The system must handle at least 500 concurrent users without degraded performance.
 - Input fields must be validated on both the client side (immediate feedback) and server side (authoritative enforcement).
 - The application must display clear, user-friendly error messages for all failure states (e.g., login failure, network error, validation error).
+
