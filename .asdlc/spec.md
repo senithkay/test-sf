@@ -43,7 +43,7 @@ Target users are individuals managing personal or professional tasks who expect 
 - A task is visually flagged as overdue when its due date is in the past and it is not yet complete.
 - A user can remove or change the due date on any task at any time.
 
-## Task Viewing & Filtering
+## Task Viewing &amp; Filtering
 
 - A user can view all of their tasks in a single list, sorted by due date (ascending) by default.
 - A user can filter tasks by category, showing only tasks in the selected category.
@@ -60,3 +60,4 @@ Target users are individuals managing personal or professional tasks who expect 
 - The interface must meet WCAG 2.1 Level AA accessibility standards.
 - The application must handle at least 500 concurrent users without degraded performance.
 - All user data must be logically isolated; no user can read, modify, or delete another user's tasks or categories.
+
